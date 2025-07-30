@@ -5,7 +5,7 @@ I work with React, Next.js, and JavaScript, following best practices and leverag
 
 👨‍💻 &nbsp;Currently, I am learning
 - 🔭 Currently learning backend technologies to expand my full stack profile.
-- 
+  
 🌱✨ If you’re looking for a dedicated professional with strong technical skills 💻 and a passion ❤️ for creating impactful solutions 🚀, I’m the best choice to elevate your project to the next level 🎯.
 
 ## 🎯 &nbsp;&nbsp;Some technologies I work with
@@ -55,18 +55,4 @@ I work with React, Next.js, and JavaScript, following best practices and leverag
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivianaE10&layout=compact&theme=react&hide=html,css" />
 </p>
 
-
-<!--
-**ewcastroh/ewcastroh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
