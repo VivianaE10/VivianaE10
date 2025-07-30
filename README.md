@@ -51,8 +51,19 @@ I work with React, Next.js, and JavaScript, following best practices and leverag
 - 💼 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivianaoescobar)
 
 ## 📈 &nbsp;&nbsp;Some of my stats are:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivianaE10&layout=compact&theme=react&hide=html,css" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VivianaE10&show_icons=true&theme=react" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivianaE10&layout=compact&theme=react&hide=html,css" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 </p>
 
 -->
