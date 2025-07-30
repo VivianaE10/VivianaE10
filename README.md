@@ -1,4 +1,4 @@
-### 👋🏻&nbsp;Hola, Soy Vivi Escobar!
+### 👋🏻 Hi, I'm Vivi Escobar!
 
 I am a Frontend Developer passionate about creating accessible, modern, and user-centered interfaces.  
 I work with React, Next.js, and JavaScript, following best practices and leveraging styling technologies to deliver scalable and visually impactful solutions.
