@@ -53,10 +53,6 @@ I work with React, Next.js, and JavaScript, following best practices and leverag
 ## 📈 &nbsp;&nbsp;Some of my stats are:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VivianaE10&show_icons=true&theme=react" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivianaE10&layout=compact&theme=react&hide=html,css" alt="Top Languages" />
 </p>
 
